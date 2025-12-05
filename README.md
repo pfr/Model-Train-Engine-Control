@@ -2,7 +2,7 @@
 If you're a DIYer who enjoys model trains and hobbiest level electronics, and would like to convert your model train engines to radio control and battery power, then this material is for you.
 
 
-![figure 1] (https://github.com/pfr/Model-Train-Engine-Control/tree/main/images/Fig01.jpg).
+![figure 1](./images/Fig01.jpg).
 
 
 
