@@ -1,7 +1,8 @@
 ﻿# 3D-Printed-Parts-for-NW2
+
 Freecad files and related STL's which you sholud be able to send directly to your slicer and 3D printer are included in the NW2 Prints directory.
 
-![figure 2](./images/Fig_2_3D_andMore_300DPI.jpg).
+![figure 2](../images/Fig_2_3D_andMore_300DPI.jpg).
 
 From left to right the five printed parts (all orange)  are  1) the battery holder,  2) battery holder retainer,  3) charging connector retainer,  4)  power on switch at base of smoke stack retainer, and 5)  electronics support.
 
