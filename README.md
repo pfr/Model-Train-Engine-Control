@@ -7,3 +7,5 @@ Code and other material here was created by me to convert my O scale engines to 
 
 An article on this effort appears in the January 2027 issue of Model Railroader Magazine (https://www.trains.com/mrr/).  I strongly recommend reading it to gain further insight.
 
+In early 2026 I also had articles on dynamic scene projection (https://github.com/pfr/Dynamic-Scene-Projection) and lighting for effect with controlled LED strips accepted by Model Railroader Magazine.  Look for them coming up.
+
